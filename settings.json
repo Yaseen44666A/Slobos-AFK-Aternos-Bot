@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UltraEfad05.aternos.me",
-    "port": 49884,
+    "ip": "0.0.0.0",
+    "port": 53994,
     "version": "",
     "try-creative": false
   },
